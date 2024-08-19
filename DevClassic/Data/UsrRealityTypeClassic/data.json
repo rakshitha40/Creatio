@@ -8,11 +8,11 @@
         },
         {
           "SchemaColumnUId": "502cc4ba-81ae-5d5c-8b02-755324925e3f",
-          "Value": ""
+          "Value": "001"
         },
         {
           "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-          "Value": ""
+          "Value": "house"
         },
         {
           "SchemaColumnUId": "cb0672b6-9fde-a5cd-7efb-552fcecd8614",
@@ -32,7 +32,7 @@
         },
         {
           "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-          "Value": ""
+          "Value": "demo"
         },
         {
           "SchemaColumnUId": "cb0672b6-9fde-a5cd-7efb-552fcecd8614",
@@ -48,11 +48,11 @@
         },
         {
           "SchemaColumnUId": "502cc4ba-81ae-5d5c-8b02-755324925e3f",
-          "Value": ""
+          "Value": "003"
         },
         {
           "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-          "Value": ""
+          "Value": "land"
         },
         {
           "SchemaColumnUId": "cb0672b6-9fde-a5cd-7efb-552fcecd8614",
@@ -72,7 +72,7 @@
         },
         {
           "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-          "Value": ""
+          "Value": "expensive"
         },
         {
           "SchemaColumnUId": "cb0672b6-9fde-a5cd-7efb-552fcecd8614",
