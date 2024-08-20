@@ -6,6 +6,7 @@
 			<Item Name="Columns.UsrArea.Caption" Value="Area, sq m" />
 			<Item Name="Columns.UsrColumn8.Caption" Value="Number" />
 			<Item Name="Columns.UsrComment.Caption" Value="Comment" />
+			<Item Name="Columns.UsrCommissionUSD.Caption" Value="Commission, USD" />
 			<Item Name="Columns.UsrManager.Caption" Value="Manager" />
 			<Item Name="Columns.UsrName.Caption" Value="Name" />
 			<Item Name="Columns.UsrOfferType.Caption" Value="Offer type" />

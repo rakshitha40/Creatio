@@ -2,13 +2,12 @@
   "Descriptor": {
     "UId": "1a9a90e2-d2a4-4e91-8646-2ae0468ea3de",
     "Name": "UsrReality_ListPage",
-    "ModifiedOnUtc": "\/Date(1724072583000)\/",
+    "ModifiedOnUtc": "\/Date(1724092411000)\/",
     "Parent": {
       "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
       "Name": "ListPageV2Template"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Reality list page",
-    "DependsOn": []
+    "Caption": "Reality list page"
   }
 }
